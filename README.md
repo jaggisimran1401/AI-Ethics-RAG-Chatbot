@@ -96,7 +96,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 ---
 
 ## 👩‍💻 Author
-Simarjeet Kaur
+Simran Jaggi
 
 ---
 
